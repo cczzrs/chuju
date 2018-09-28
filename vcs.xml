@@ -10,8 +10,12 @@
           <option name="url" value="https://gitee.com/cczzrs/chuju.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cczzrs/pac.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\cong\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\cong\github" />
   </component>
 </application>
